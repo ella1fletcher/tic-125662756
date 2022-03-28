@@ -1,0 +1,14 @@
+28/03/22 9:55
+Estadístiques del projecte
+
+               	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
+Total:         	     108	    1939	                    9356	                 11166	      1	
+Restants:      	     108	    1939	                    9356	                 11166	      1	
+Únics:         	     108	    1939	                    9356	                 11166	      1	
+Únics restants:	     108	    1939	                    9356	                 11166	      1	
+
+
+Estadístiques per fitxer:
+
+Nom del fitxer        	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
+wikitravel-nairobi.odt	            108	              108	           108	                    108	           1939	             1939	            1939	                     1939	                           9356	                             9356	                          9356	                                   9356	                        11166	                          11166	                       11166	                                11166	
